@@ -30,3 +30,8 @@ home
 
 
 login
+
+relations:
+-one to one [ user - profile ] ForeginKey
+-many to many [ user - group]
+-one to many [ user-post ]
