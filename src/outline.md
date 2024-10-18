@@ -1,9 +1,9 @@
 job:
     -title
     -location
-    -job tupe
+    -job type
     -description
-    -publish at
+    -published at
     -vacancy
     -salary
     -category
